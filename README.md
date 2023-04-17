@@ -1,2 +1,3 @@
-# matter-is-the-new-things-
-for a better world, use matter
+# Matter is the new thrend 
+* This repo is only a test
+* no support
